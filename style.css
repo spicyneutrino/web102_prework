@@ -21,6 +21,15 @@ body {
 
 .stats-container {
     display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: maroon;
+    
+}
+
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +81,32 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.total-games-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.game-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+}
+
+.current-game-img{
+    display: block;
+    height: 160px;
+    width: auto;
+    margin: 5px;
+    align-self: center;
+}
+
+.current-game-name{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 5px;
 }
