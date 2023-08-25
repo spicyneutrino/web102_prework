@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Alt Text](https://i.ibb.co/HKVV4N4/ezgif-com-optimize.gif)
+![](https://i.ibb.co/HKVV4N4/ezgif-com-optimize.gif))
 
 Tools used:
 
@@ -39,7 +39,7 @@ Finding the answer to secret keys was confusing.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kavya Gautam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
