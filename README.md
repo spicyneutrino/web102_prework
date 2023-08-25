@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Alt Text](https://i.ibb.co/HKVV4N4/ezgif-com-optimize.gif)
+![](https://github.com/spicyneutrino/web102_prework/blob/main/assets/pre_work_demo.gif)
 
 Tools used:
 
